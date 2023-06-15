@@ -1,0 +1,54 @@
+body {
+	font-family: 'open sans';
+	padding: 0;
+	margin: 0;
+}
+
+.atas {
+	background: url("gambar/kamar20.jpg") ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  padding-bottom: 8%;
+  box-shadow: 0 4px 8px 0 #1ac4a74d, 0 6px 10px 0 rgba(0, 0, 0, 0.80);
+
+}
+.judulbesar{
+	
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 7%;
+
+}
+.judulkecil{
+	
+	text-align: center;
+	padding-top: 1%;
+}
+
+.garisjudul{
+	border-bottom: 5px solid rgb( 90,79,79);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 4%;
+	margin-bottom: 4%;
+	width: 50%;
+}
+.judul2{
+	
+	text-align: center;
+	padding-top: 1%;
+}
+
+.garisjudul2{
+	border-bottom: 5px solid rgb( 90,79,79);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 4%;
+	margin-bottom: 4%;
+	width: 50%;
+}
+
+
